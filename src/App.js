@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import firebaseApp from "./FirebaseConfig";
 import "./App.css";
 
